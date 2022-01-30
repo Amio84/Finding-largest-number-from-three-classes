@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Finding largest number from three classes", "Finding largest number from three classes\Finding largest number from three classes.vcxproj", "{B8E40BDD-60AB-4A7B-8992-AC53E7CF723F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8E40BDD-60AB-4A7B-8992-AC53E7CF723F}.Debug|x64.ActiveCfg = Debug|x64
+		{B8E40BDD-60AB-4A7B-8992-AC53E7CF723F}.Debug|x64.Build.0 = Debug|x64
+		{B8E40BDD-60AB-4A7B-8992-AC53E7CF723F}.Debug|x86.ActiveCfg = Debug|Win32
+		{B8E40BDD-60AB-4A7B-8992-AC53E7CF723F}.Debug|x86.Build.0 = Debug|Win32
+		{B8E40BDD-60AB-4A7B-8992-AC53E7CF723F}.Release|x64.ActiveCfg = Release|x64
+		{B8E40BDD-60AB-4A7B-8992-AC53E7CF723F}.Release|x64.Build.0 = Release|x64
+		{B8E40BDD-60AB-4A7B-8992-AC53E7CF723F}.Release|x86.ActiveCfg = Release|Win32
+		{B8E40BDD-60AB-4A7B-8992-AC53E7CF723F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8607C379-74A1-43F6-9E29-2B16F0C281F6}
+	EndGlobalSection
+EndGlobal
